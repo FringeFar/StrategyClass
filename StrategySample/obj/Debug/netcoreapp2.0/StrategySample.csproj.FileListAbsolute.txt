@@ -1,0 +1,11 @@
+/Users/carlosbueno/Projects/StrategySample/StrategySample/bin/Debug/netcoreapp2.0/StrategySample.deps.json
+/Users/carlosbueno/Projects/StrategySample/StrategySample/bin/Debug/netcoreapp2.0/StrategySample.runtimeconfig.json
+/Users/carlosbueno/Projects/StrategySample/StrategySample/bin/Debug/netcoreapp2.0/StrategySample.runtimeconfig.dev.json
+/Users/carlosbueno/Projects/StrategySample/StrategySample/bin/Debug/netcoreapp2.0/StrategySample.dll
+/Users/carlosbueno/Projects/StrategySample/StrategySample/bin/Debug/netcoreapp2.0/StrategySample.pdb
+/Users/carlosbueno/Projects/StrategySample/StrategySample/obj/Debug/netcoreapp2.0/StrategySample.csprojResolveAssemblyReference.cache
+/Users/carlosbueno/Projects/StrategySample/StrategySample/obj/Debug/netcoreapp2.0/StrategySample.csproj.CoreCompileInputs.cache
+/Users/carlosbueno/Projects/StrategySample/StrategySample/obj/Debug/netcoreapp2.0/StrategySample.AssemblyInfoInputs.cache
+/Users/carlosbueno/Projects/StrategySample/StrategySample/obj/Debug/netcoreapp2.0/StrategySample.AssemblyInfo.cs
+/Users/carlosbueno/Projects/StrategySample/StrategySample/obj/Debug/netcoreapp2.0/StrategySample.dll
+/Users/carlosbueno/Projects/StrategySample/StrategySample/obj/Debug/netcoreapp2.0/StrategySample.pdb
